@@ -1,6 +1,5 @@
 <script lang="ts">
   import highlighter from "$lib/utilities/highlighter";
-  import asd from "node-html-parser";
 
   let data = '{"123":"23"}';
 
